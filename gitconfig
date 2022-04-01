@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jo@argano.co.jp
+	name = Jo Genei
